@@ -13,15 +13,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Green 500: hsl(158, 36%, 37%)
-- Green 700: hsl(158, 42%, 18%)
+- Green 500: rgb(60, 128, 103)
+- Green 700: rgb(27, 65, 51)
 
 ### Neutral
 
-- Black: hsl(212, 21%, 14%)
-- Grey: hsl(228, 12%, 48%)
-- Cream: hsl(30, 38%, 92%)
-- White: hsl(0, 0%, 100%)
+- Black: rgb(28, 35, 43)
+- Grey: rgb(108, 114, 137)
+- Cream: rgb(242, 235, 227)
+- White: rgb(255, 255, 255)
 
 ## Typography
 
